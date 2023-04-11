@@ -1,4 +1,4 @@
-# ktp_ocr
+# Ktp OCR
 
 A Flutter plugin for getting KTP Data from KTP Image. 
 KTP Image will extracted using OCR with the help of [flutter_tesseract_ocr](https://pub.dev/packages/flutter_tesseract_ocr) plugin into Ktp Data Object.
