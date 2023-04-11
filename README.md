@@ -1,7 +1,7 @@
 # KTP OCR
 
 A Flutter plugin for getting Indonesian Identity Card or KTP *Kartu Tanda Penduduk* Data from KTP Image. 
-KTP Image will extracted using OCR with the help of [flutter_tesseract_ocr](https://pub.dev/packages/flutter_tesseract_ocr) plugin into Ktp Data Object.
+KTP Image will extracted using OCR with the help of [flutter_tesseract_ocr](https://pub.dev/packages/flutter_tesseract_ocr) plugin into KTP Data Object.
 
 ## Getting Started
 
