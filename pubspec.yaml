@@ -1,7 +1,7 @@
 name: ktp_ocr
 description: A new Flutter plugin project.
 version: 0.0.1
-homepage:
+homepage: https://github.com/Mattjevaas/ktp_ocr
 
 environment:
   sdk: '>=2.19.5 <3.0.0'
@@ -11,6 +11,8 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_tesseract_ocr: ^0.4.20
+  opencv_4: ^1.0.0
+  path_provider: ^2.0.14
 
 dev_dependencies:
   flutter_test:
@@ -41,10 +43,10 @@ flutter:
         pluginClass: KtpOcrPlugin
 
   # To add assets to your plugin package, add an assets section, like this:
-  assets:
-    - assets/
-    - assets/tessdata/
-  #
+  #  assets:
+  #    - assets/
+  #    - assets/tessdata/
+
   # For details regarding assets in packages, see
   # https://flutter.dev/assets-and-images/#from-packages
   #
